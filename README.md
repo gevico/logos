@@ -30,7 +30,20 @@
   <img src="./v1/logo.svg" alt="格维开源社区 LOGO" width="200" height="200">
 </center>
 
-## 🤝 四、如何参与 LOGO 设计迭代
+## 🐱 四、社区 IP 形象：大毛（DaMao）
+
+大毛是格维开源社区的拟人化白猫 IP 形象，代表基础软件社区所强调的稳重可靠、冷静专注、工程协作和开放共建。
+
+- 📁 [大毛多格式素材](./mascot/damao/v1/)
+- 🖼️ [独立角色形象 PNG](./mascot/damao/v1/damao-character.png)
+- 📋 [角色设定表 SVG](./mascot/damao/v1/damao-character-sheet.svg)
+- 🖼️ [角色设定表预览 PNG](./mascot/damao/v1/damao-character-sheet.png)
+
+<p align="center">
+  <img src="./mascot/damao/v1/damao-character.png" alt="大毛 DaMao" width="260">
+</p>
+
+## 🤝 五、如何参与 LOGO 设计迭代
 
 如果你对社区 LOGO 有好的建议或设计方案，欢迎通过以下方式参与：
 
@@ -38,13 +51,13 @@
 2. 📤 **发起 PR**：提交 Pull Request，附上你的设计方案和说明
 3. 💬 **加入讨论**：加入社区讨论群，与其他成员交流设计想法
 
-## 📚 五、历史版本记录
+## 📚 六、历史版本记录
 
 | 📌 版本号 | ⏰ 发布时间 | 🔄 主要变更 | 👨‍💻 设计者 |
 |--------|----------|----------|--------|
 | **v1** | 2025年 | ✨ 微调原有LOGO设计 | [主核Kernyr](https://github.com/kernel4632) |
 
-## 📞 六、联系我们
+## 📞 七、联系我们
 
 如果有任何关于 LOGO 设计的问题或建议，欢迎加入QQ群：[1001220381](https://qm.qq.com/q/oCeeXvSbqE)
 

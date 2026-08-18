@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1448" height="1086" viewBox="0 0 1448 1086" role="img" aria-labelledby="title desc">
+  <title id="title">大毛（DaMao）社区 IP 形象设定</title>
+  <desc id="desc">格维开源社区大毛形象、关键词、外观特征、应用方向与配色规范。</desc>
+  <defs>
+    <style>
+      .title { font: 700 76px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #222831; }
+      .latin { fill: #1E90FF; }
+      .subtitle { font: 500 28px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #384150; }
+      .section { font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #1E90FF; }
+      .item { font: 500 25px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; fill: #222831; }
+      .label { font: 500 19px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #4C5667; }
+    </style>
+  </defs>
+
+  <rect width="1448" height="1086" fill="#FFFFFF"/>
+  <rect x="24" y="24" width="1400" height="1038" rx="28" fill="none" stroke="#D9E9FF" stroke-width="3"/>
+
+  <image href="damao-character.png" x="55" y="95" width="500" height="625" preserveAspectRatio="xMidYMid meet"/>
+
+  <text x="610" y="120" class="title">大毛 <tspan class="latin">/ DaMao</tspan></text>
+  <text x="615" y="170" class="subtitle">GTOC 格维开源社区 IP 形象</text>
+
+  <g transform="translate(610 240)">
+    <circle cx="24" cy="-10" r="24" fill="#1E90FF"/>
+    <path d="M14,-11 h20 M24,-21 v20" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+    <text x="68" y="0" class="section">1 形象关键词</text>
+    <line x1="68" y1="18" x2="770" y2="18" stroke="#1E90FF" stroke-width="2"/>
+    <g class="item">
+      <circle cx="82" cy="70" r="6" fill="#1E90FF"/><text x="105" y="79">稳重可靠</text>
+      <circle cx="330" cy="70" r="6" fill="#1E90FF"/><text x="353" y="79">基础软件</text>
+      <circle cx="578" cy="70" r="6" fill="#1E90FF"/><text x="601" y="79">开源共建</text>
+      <circle cx="82" cy="128" r="6" fill="#1E90FF"/><text x="105" y="137">冷静专注</text>
+      <circle cx="330" cy="128" r="6" fill="#1E90FF"/><text x="353" y="137">工程伙伴</text>
+      <circle cx="578" cy="128" r="6" fill="#1E90FF"/><text x="601" y="137">探索未来</text>
+    </g>
+  </g>
+
+  <g transform="translate(610 455)">
+    <circle cx="24" cy="-10" r="24" fill="#1E90FF"/>
+    <path d="M14,-2 L24,-20 L34,-2 Z" fill="#FFFFFF"/>
+    <text x="68" y="0" class="section">2 外观特征</text>
+    <line x1="68" y1="18" x2="770" y2="18" stroke="#1E90FF" stroke-width="2"/>
+    <g class="item">
+      <circle cx="82" cy="70" r="6" fill="#1E90FF"/><text x="105" y="79">白色长毛</text>
+      <circle cx="330" cy="70" r="6" fill="#1E90FF"/><text x="353" y="79">左蓝右绿异瞳</text>
+      <circle cx="578" cy="70" r="6" fill="#1E90FF"/><text x="601" y="79">蓬松尾巴</text>
+      <circle cx="82" cy="128" r="6" fill="#1E90FF"/><text x="105" y="137">Q 版拟人</text>
+      <circle cx="330" cy="128" r="6" fill="#1E90FF"/><text x="353" y="137">蓝青科技配色</text>
+      <circle cx="578" cy="128" r="6" fill="#1E90FF"/><text x="601" y="137">连帽外套</text>
+    </g>
+  </g>
+
+  <g transform="translate(610 670)">
+    <circle cx="24" cy="-10" r="24" fill="#1E90FF"/>
+    <rect x="13" y="-21" width="22" height="22" rx="4" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="68" y="0" class="section">3 应用方向</text>
+    <line x1="68" y1="18" x2="770" y2="18" stroke="#1E90FF" stroke-width="2"/>
+    <g class="item">
+      <circle cx="82" cy="70" r="6" fill="#1E90FF"/><text x="105" y="79">玩偶</text>
+      <circle cx="220" cy="70" r="6" fill="#1E90FF"/><text x="243" y="79">贴纸</text>
+      <circle cx="358" cy="70" r="6" fill="#1E90FF"/><text x="381" y="79">徽章</text>
+      <circle cx="496" cy="70" r="6" fill="#1E90FF"/><text x="519" y="79">文化衫</text>
+      <circle cx="660" cy="70" r="6" fill="#1E90FF"/><text x="683" y="79">社区海报</text>
+    </g>
+  </g>
+
+  <line x1="70" y1="815" x2="1378" y2="815" stroke="#D9E9FF" stroke-width="3"/>
+
+  <image href="../../../v1/logo.svg" x="72" y="850" width="190" height="145" preserveAspectRatio="xMidYMid meet"/>
+  <text x="280" y="910" style="font:700 48px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#1E90FF">GTOC</text>
+  <text x="282" y="948" class="subtitle">Open Source, Open Future.</text>
+
+  <g transform="translate(690 880)">
+    <circle cx="0" cy="0" r="38" fill="#FFFFFF" stroke="#CAD1DB" stroke-width="2"/><text x="-38" y="70" class="label">#FFFFFF</text>
+    <circle cx="145" cy="0" r="38" fill="#1E90FF"/><text x="107" y="70" class="label">#1E90FF</text>
+    <circle cx="290" cy="0" r="38" fill="#7ED6FF"/><text x="252" y="70" class="label">#7ED6FF</text>
+    <circle cx="435" cy="0" r="38" fill="#222831"/><text x="397" y="70" class="label">#222831</text>
+    <circle cx="580" cy="0" r="38" fill="#A8D08D"/><text x="542" y="70" class="label">#A8D08D</text>
+  </g>
+</svg>
